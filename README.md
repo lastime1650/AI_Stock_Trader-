@@ -20,4 +20,5 @@ The Stock_Trader AI by a LangChain Agent function
 그리고 주식에 관한 정보는 Yahoo Finance 모듈을 다운받아서 바로 사용하면 되므로 굉장히 쉽습니다. <br>
 
 # But how should i do making the LLM MODEL for trading? 
-이 부분은 제가 이전에 작성한 것에 대해 읽으셔야합니다. -> [https://github.com/lastime1650/LangChain_with_Agent](https://github.com/lastime1650/LangChain_with_Agent)
+이 부분은 제가 이전에 작성한 것에 대해 읽으셔야합니다. -> [https://github.com/lastime1650/LangChain_with_Agent](https://github.com/lastime1650/LangChain_with_Agent)<br>
+my Korean blog [https://blog.naver.com/lastime1650/223728641307](https://blog.naver.com/lastime1650/223728641307)

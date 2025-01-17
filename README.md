@@ -9,7 +9,8 @@ The Stock_Trader AI by a LangChain Agent function
 <br>
 
 # How it works? 
-매우 쉬운 사용입니다. 그냥 하고 싶은 말만 넣으세요! 
+매우 쉬운 사용입니다. 그냥 하고 싶은 말만 넣으세요! <br>
+[중요] 단, 시스템 프롬프팅은 조정해야합니다. 이건 필수에요. 바로 사용하면 실망합니다.
 
 <br>
 
